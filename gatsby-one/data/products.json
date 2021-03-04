@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "plant-1",
+    "title": "Plan pots",
+    "price": "$15",
+    "image_url": "./images/plants-1.jpg"
+  },
+  {
+    "slug": "plant-2",
+    "title": "Plant pot next",
+    "price": "$12",
+    "image_url": "./images/plants-2.jpg"
+  }
+]
